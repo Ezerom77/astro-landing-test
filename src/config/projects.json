@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi perferendis nemo, consectetur blanditiis error eligendi inventore quisquam quis animi facilis dolorum, natus, veniam possimus numquam mollitia ipsa in ea voluptatem.",
+      "image": "images/fingerprint.svg",
+      "title": "The Shawshank "
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi perferendis nemo, consectetur blanditiis error eligendi inventore quisquam quis animi facilis dolorum, natus, veniam possimus numquam mollitia ipsa in ea voluptatem.",
+      "image": "images/fingerprint.svg",
+      "title": "The Redemption"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi perferendis nemo, consectetur blanditiis error eligendi inventore quisquam quis animi facilis dolorum, natus, veniam possimus numquam mollitia ipsa in ea voluptatem.",
+      "image": "images/fingerprint.svg",
+      "title": "Fabulosos Cadillacs"
+    }
+  ]
+}
